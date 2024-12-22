@@ -9,8 +9,6 @@
 - 📫 How to reach me: napoleondagmawi@gmail.com
 
 ## Link to my Socials 🤝
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://instagram.com/Dagi_n34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kidus._.m" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dagmawi-napoleon-630640241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidus0237" height="30" width="40" /></a>
 </p>
