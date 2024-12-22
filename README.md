@@ -5,14 +5,14 @@
 - 🔭 I’m currently working on Node, React, Express
 - 🌱 I’m currently learning Next.js
 - 📬 Feel free to connect with me or check out my projects below!
-- ⚡ Fun fact: I have an unhealthy obsession to Basketball 😆
+- 🏀 Fun fact: I have an unhealthy obsession to Basketball 😆
 - 📫 How to reach me: napoleondagmawi@gmail.com
 
 ## Link to my Socials 🤝
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dagmawi-napoleon-630640241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidus0237" height="30" width="40" /></a>
 <a href="https://instagram.com/Dagi_n34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kidus._.m" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dagmawi-napoleon-630640241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidus0237" height="30" width="40" /></a>
 </p>
 <!--
 **Dagin34/Dagin34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
