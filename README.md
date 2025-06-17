@@ -24,7 +24,7 @@ A passionate and driven developer with a knack for crafting clean, efficient, an
 </p>-->
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>TECHNOLOGIES I WORK WITH</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <img src="https://readme-typing-svg.herokuapp.com?lines=My Skills&amp;center=true&amp;width=500&amp;height=50">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,cpp,html,css,js,react,tailwind,mongodb,mysql,nextjs,nodejs,express,firebase,nextjs,npm,docker,postgres,figma,spring,dotnet,sqlite,selenium,vercel,github,bootstrap,java,linux,materialui,postman,py,php,ts,vscode,ai&perline=14" />
