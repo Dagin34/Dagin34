@@ -39,10 +39,8 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Github Stats</b>
-<div align="center">
    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagin34&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagin34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My Current Interests</b>
 <p align="center">
