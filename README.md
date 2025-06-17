@@ -14,7 +14,7 @@
 <!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 </div>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=📍 Based in Addis Ababa, Ethiopia&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
+  <img src="https://img.shields.io/static/v1?message=Based+in+Ethiopia&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
 </div>
 
 
