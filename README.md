@@ -19,11 +19,12 @@
   <img src="https://img.shields.io/static/v1?message=Based+in+Ethiopia&logo=&label=&color=12261e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
 </div>
 
-
+<p align="center">
 A passionate and driven developer with a knack for crafting clean, efficient, and user-friendly applications. I'm constantly exploring new technologies and seeking opportunities to build impactful solutions. Check out my portfolio to see some of my work!
+</p>
 ---
 
-## 🛠️ Technologies I Work With
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>TECHNOLOGIES I WORK WITH</b>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -41,6 +42,14 @@ A passionate and driven developer with a knack for crafting clean, efficient, an
 `RESTful APIs`, `Agile Development`, `Problem Solving`, `Critical Thinking`, etc.
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Agile+Development&logo=&label=white&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="agile" />
+  <img src="https://img.shields.io/static/v1?message=RESTful+APIs&logo=&label=white&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="restful api" />
+  <img src="https://img.shields.io/static/v1?message=Problem+Solving&logo=&label=white&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="problem solving" />
+  <img src="https://img.shields.io/static/v1?message=Critical+Thinking&logo=&label=white&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="critical thinking" />
+  <img src="https://img.shields.io/static/v1?message=Collaboration&logo=&label=white&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="collaboration" />
+</div>
+
 ## 🌱 What I'm Currently Learning
 
 I'm always eager to expand my knowledge! Currently, I'm focusing on:
@@ -51,7 +60,7 @@ I'm always eager to expand my knowledge! Currently, I'm focusing on:
 
 ---
 
-## 📊 My GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>MY GITHUB STATS</b>
 
 
 <div align="center">
