@@ -1,9 +1,11 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <!--<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀 </h1>-->
 <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Dagmawi+Napoleon;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Final+Year+Student+at+HiLCoE&amp;center=true&amp;width=900&amp;height=250&amp;duration=3000&amp;size=34&amp;color=000000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Dagmawi+Napoleon;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Final+Year+Student+at+HiLCoE&amp;center=true&amp;width=900&amp;height=250&amp;duration=3000&amp;size=34&amp;color=ffffff">
   </p>
 </div>
 
