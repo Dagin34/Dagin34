@@ -1,7 +1,7 @@
-<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀
+<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀 </h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;BasketBall+Lover;Graphic%20Designer;Ready+To+Collaborate&amp;center=true&amp;width=500&amp;height=50"></a>
 
-<div align="center">
+<div align="center" style="border: 1px solid white;">
   <a href="https://dagmawi-napoleon.vercel.app" target="_blank"><img href="https://img.shields.io/badge/My-Portfolio-blue" /></a>
   <a href="https://instagram.com/Dagi_n34" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
   <a href="dagmawinapoleon02@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
