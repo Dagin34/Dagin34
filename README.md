@@ -6,7 +6,6 @@
 </div>
 
 <div align="center">
-<!--   <a href="https://dagmawi-napoleon.vercel.app" target="_blank"><img href="https://img.shields.io/badge/My-Portfolio-blue" /></a> -->
   <a href="https://dagmawi-napoleon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  /></a>
   <a href="https://instagram.com/Dagi_n34" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
   <a href="dagmawinapoleon02@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
@@ -41,12 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dagin34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
 </div>
 
-## 🌱 What I'm Currently Learning
-
-I'm always eager to expand my knowledge! Currently, I'm focusing on:
-
-* `New Technology/Framework 1`
-* `Advanced Concepts in Technology I Already Know`
-* `Exploring Another Programming Language`
+## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My Current Interests</b>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,vue,blender,nextjs,aspnet,aws,vustand&perline=8" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
