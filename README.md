@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Dagmawi+Napoleon;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Final+Year+Student+at+HiLCoE&amp;center=true&amp;width=900&amp;height=250&amp;duration=3000&amp;size=34&amp;color=ffffff">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Dagmawi+Napoleon;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Final+Year+Student+at+HiLCoE&amp;center=true&amp;width=900&amp;height=100&amp;duration=3000&amp;size=42&amp;color=ffffff">
   </p>
 </div>
 
