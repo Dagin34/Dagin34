@@ -1,31 +1,18 @@
 # 👋 Hi there! I'm Dagmawi Napoleon
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://dagmawi-napoleon.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-napoleon)
-[![GitHub Followers](https://img.shields.io/github/followers/Dagin34?label=Follow&style=social)](https://github.com/Dagin34)
+<div align="center">
+  <a href="https://dagmawi-napoleon.vercel.app" target="_blank"><img href="https://img.shields.io/badge/Portfolio-View%20My%20Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://instagram.com/Dagi_n34" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <a href="dagmawinapoleon02@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/dagin34" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
+</div>
 
 📍 Based in Addis Ababa, Ethiopia 🇪🇹
 
 A passionate and driven developer with a knack for crafting clean, efficient, and user-friendly applications. I'm constantly exploring new technologies and seeking opportunities to build impactful solutions. Check out my portfolio to see some of my work!
-
----
-
-## 🚀 Featured Projects
-
-Here are a few highlights from my portfolio:
-
-* **🔗 [Your Project Name 1](Link to Project 1)**
-    * Brief description of the project (e.g., A web application for...).
-    * Tech Stack: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, etc.
-* **🔗 [Your Project Name 2](Link to Project 2)**
-    * Short explanation of the project's purpose and key features.
-    * Tech Stack: `Python`, `Django`, `SQLAlchemy`, etc.
-* **🔗 [Your Project Name 3](Link to Project 3)**
-    * A concise summary of the project and its main functionalities.
-    * Tech Stack: `Mobile Development (e.g., Flutter, React Native)`, `Firebase`, etc.
-
-**➡️ [View all my projects on my portfolio](https://dagmawi-napoleon.vercel.app)**
-
 ---
 
 ## 🛠️ Technologies I Work With
@@ -71,12 +58,8 @@ I'm open to connecting with other developers, collaborating on interesting proje
 
 ## 📊 My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dagin34&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagin34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagin34&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-✨ Feel free to adapt and personalize this README further to showcase your unique skills and personality!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dagin34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dagin34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
