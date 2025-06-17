@@ -3,7 +3,7 @@
 <!--<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀 </h1>-->
 <div align="center">
   <p align="center">🏀 
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Dagmawi+Napoleon;I'm+a+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Fianl+Year+Student+at+HiLCoE&amp;center=true&amp;width=500&amp;height=250&amp;duration=3000&amp;size=34">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🏀+Hello,+I+am+Dagmawi+Napoleon+🏀;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Final+Year+Student+at+HiLCoE&amp;center=true&amp;width=500&amp;height=250&amp;duration=3000&amp;size=34">
      🏀
   </p>
 </div>
