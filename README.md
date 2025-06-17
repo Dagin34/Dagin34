@@ -1,8 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀 </h1>
+<!--<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀 </h1>-->
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;BasketBall+Lover;Graphic%20Designer;Ready+To+Collaborate&amp;center=true&amp;width=500&amp;height=50"></a>
+  <p align="center">🏀 
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Dagmawi+Napoleon;I'm+a+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Fianl+Year+Student+at+HiLCoE&amp;center=true&amp;width=500&amp;height=250">
+     🏀
+  </p>
 </div>
 
 <div align="center">
@@ -17,9 +20,6 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Based+in+Ethiopia&logo=&label=&color=12261e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="country"  />
 </div>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Dagin34/count.svg" />
-</p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>My Skills</b>
