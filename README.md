@@ -13,8 +13,10 @@
 <!--   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
 <!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 </div>
+<div align="center">
+  <p>📍 Based in Addis Ababa, Ethiopia 🇪🇹</p>
+</div>
 
-📍 Based in Addis Ababa, Ethiopia 🇪🇹
 
 A passionate and driven developer with a knack for crafting clean, efficient, and user-friendly applications. I'm constantly exploring new technologies and seeking opportunities to build impactful solutions. Check out my portfolio to see some of my work!
 ---
