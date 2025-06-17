@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀 </h1>
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;BasketBall+Lover;Graphic%20Designer;Ready+To+Collaborate&amp;center=true&amp;width=500&amp;height=50"></a>
@@ -23,23 +25,20 @@ A passionate and driven developer with a knack for crafting clean, efficient, an
 
 ## 🛠️ Technologies I Work With
 
-Here's a glimpse into my technical toolkit:
-
-**Languages:**
-`JavaScript`, `Python`, `HTML`, `CSS`, `Java`, `C++`, etc.
-
-**Frameworks & Libraries:**
-`React`, `Node.js`, `Express.js`, `Django`, `Flask`, `jQuery`, `Bootstrap`, `Tailwind CSS`, etc.
-
-**Databases:**
-`PostgreSQL`, `MySQL`, `MongoDB`, `Firebase`, etc.
-
-**Tools & Platforms:**
-`Git`, `GitHub`, `GitLab`, `VS Code`, `npm`, `yarn`, `Docker`, `Vercel`, `Netlify`, etc.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,html,css,js,react,tailwind,mongodb,mysql,nextjs,nodejs,express,firebase,nextjs,npm,docker,postgres,figma,spring,dotnet,sqlite,selenium,vercel,github,bootstrap,java,linux,materialui,postman,py,php,ts,vscode,ai&perline=14" />
+  </a>
+</p>
 
 **Other Skills:**
 `RESTful APIs`, `Agile Development`, `Problem Solving`, `Critical Thinking`, etc.
-
 ---
 
 ## 🌱 What I'm Currently Learning
@@ -59,3 +58,5 @@ I'm always eager to expand my knowledge! Currently, I'm focusing on:
   <img src="https://github-readme-stats.vercel.app/api?username=Dagin34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dagin34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
