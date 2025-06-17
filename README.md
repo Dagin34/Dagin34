@@ -1,6 +1,5 @@
-<h1 align="center">Hello there, It's me. Dagmawi Napoleon <div class="tenor-gif-embed" data-postid="23644511" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sports-sportsmanias-emoji-animated-emoji-wilson-gif-23644511">Sports Sportsmanias Sticker</a>from <a href="https://tenor.com/search/sports-stickers">Sports Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Basketball+Ball+Lover;Graphic%20Designer;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+<h1 align="center">🏀 Hello there, It's me, Dagmawi Napoleon. 🏀
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;BasketBall+Lover;Graphic%20Designer;Ready+To+Collaborate&amp;center=true&amp;width=500&amp;height=50"></a>
 
 <div align="center">
   <a href="https://dagmawi-napoleon.vercel.app" target="_blank"><img href="https://img.shields.io/badge/My-Portfolio-blue" /></a>
