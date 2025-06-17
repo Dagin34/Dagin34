@@ -24,16 +24,14 @@ A passionate and driven developer with a knack for crafting clean, efficient, an
 </p>-->
 
 
-## <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-<img src="https://readme-typing-svg.herokuapp.com?lines=My+Skills&amp;center=false&amp;width=500&amp;height=50">
-</a>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,cpp,html,css,js,react,tailwind,mongodb,mysql,nextjs,nodejs,express,firebase,nextjs,npm,docker,postgres,figma,spring,dotnet,sqlite,selenium,vercel,github,bootstrap,java,linux,materialui,postman,py,php,ts,vscode,ai&perline=14" />
   </a>
 </p>
 
+<p align="center">Extra Skills</p>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Agile+Development&logo=&label=&color=ff6c37&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="agile" />
   <img src="https://img.shields.io/static/v1?message=RESTful+APIs&logo=&label=&color=ff6c37&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="restful api" />
@@ -52,7 +50,7 @@ I'm always eager to expand my knowledge! Currently, I'm focusing on:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My Github Stats
 
 
 <div align="center">
