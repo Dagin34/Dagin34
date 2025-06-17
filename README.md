@@ -17,6 +17,9 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Based+in+Ethiopia&logo=&label=&color=12261e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="country"  />
 </div>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Dagin34/count.svg" />
+</p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>My Skills</b>
@@ -43,7 +46,7 @@
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My Current Interests</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,vue,blender,nextjs,aspnet,aws,vustand&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,vue,blender,nextjs,aws,android&perline=8" />
   </a>
 </p>
 
