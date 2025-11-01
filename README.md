@@ -42,9 +42,8 @@
    <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagin34&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagin34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <div align="center">
-   ![Dagin34's Stats](https://github-readme-stats.vercel.app/api?username=Dagin34&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true"  alt="Dagmawi Napoleon"/>
-   ![Dagin34's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dagin34&theme=tokyonight&hide_border=false)
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dagin34&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="Dagmawi Napoleon" width='30vw' height='30vw'  />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true"  alt="Dagmawi Napoleon" width='30vw' height='30vw' />
 </div>
 
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My Current Interests</b>
