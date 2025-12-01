@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Dagmawi+Napoleon;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;Final+Year+Student+at+HiLCoE&amp;center=true&amp;width=900&amp;height=100&amp;duration=3000&amp;size=42&amp;color=ffffff">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Dagmawi+Napoleon;A+Full+Stack+Web+Developer;A+BasketBall+Lover;A+Graphic+Designer;&amp;center=true&amp;width=900&amp;height=100&amp;duration=3000&amp;size=42&amp;color=ffffff">
   </p>
 </div>
 
@@ -26,7 +26,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>My Skills</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,html,css,js,react,tailwind,mongodb,mysql,nextjs,nodejs,express,firebase,nextjs,npm,docker,postgres,figma,spring,dotnet,sqlite,selenium,vercel,github,bootstrap,java,linux,materialui,postman,py,php,ts,vscode,ai&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,html,css,js,react,tailwind,mongodb,mysql,nextjs,nodejs,express,firebase,npm,docker,postgres,figma,spring,dotnet,sqlite,selenium,vercel,github,bootstrap,java,linux,materialui,postman,py,php,ts,vscode,ai&perline=14" />
   </a>
 </p>
 <p align="center">EXTRA SKILLS</p>
