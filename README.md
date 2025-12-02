@@ -42,14 +42,18 @@
    <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagin34&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagin34&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <div align="center">
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dagin34&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="Dagmawi Napoleon" width='300px' height='200px'  />
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true"  alt="Dagmawi Napoleon" width='300px' height='200px' />
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagin34&theme=dracula"/>
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagin34&theme=dracula"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dagin34&theme=dracula&utcOffset=3" />
+   <img height="180em" src="https://streak-stats.demolab.com?user=dagin34&theme=dracula&hide_border=true" alt="GitHub Streak" />
+   <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Dagmawi Napoleon" width='300px' height='200px'  /> -->
+   <!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true"  alt="Dagmawi Napoleon" width='300px' height='200px' /> -->
 </div>
 
 ## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>My Current Interests</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,vue,blender,nextjs,aws,android&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,vue,blender,aws&perline=8" />
   </a>
 </p>
 
