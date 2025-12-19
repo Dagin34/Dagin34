@@ -45,7 +45,7 @@
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagin34&theme=dracula"/>
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagin34&theme=dracula"/>
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dagin34&theme=dracula&utcOffset=3" />
-   <img height="180em" src="https://streak-stats.demolab.com?user=dagin34&theme=dracula&hide_border=true" alt="GitHub Streak" />
+   <!-- <img height="180em" src="https://streak-stats.demolab.com?user=dagin34&theme=dracula&hide_border=true" alt="GitHub Streak" /> -->
    <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Dagmawi Napoleon" width='300px' height='200px'  /> -->
    <!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Dagin34&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true"  alt="Dagmawi Napoleon" width='300px' height='200px' /> -->
 </div>
